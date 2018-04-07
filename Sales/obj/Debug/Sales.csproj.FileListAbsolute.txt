@@ -1,0 +1,14 @@
+c:\users\8\documents\visual studio 2015\Projects\Sales\Sales\bin\Debug\Sales.exe.config
+c:\users\8\documents\visual studio 2015\Projects\Sales\Sales\bin\Debug\Sales.exe
+c:\users\8\documents\visual studio 2015\Projects\Sales\Sales\bin\Debug\Sales.pdb
+c:\users\8\documents\visual studio 2015\Projects\Sales\Sales\obj\Debug\Sales.csprojResolveAssemblyReference.cache
+c:\users\8\documents\visual studio 2015\Projects\Sales\Sales\obj\Debug\MainWindow.g.cs
+c:\users\8\documents\visual studio 2015\Projects\Sales\Sales\obj\Debug\App.g.cs
+c:\users\8\documents\visual studio 2015\Projects\Sales\Sales\obj\Debug\Sales_MarkupCompile.cache
+c:\users\8\documents\visual studio 2015\Projects\Sales\Sales\obj\Debug\Sales_MarkupCompile.lref
+c:\users\8\documents\visual studio 2015\Projects\Sales\Sales\obj\Debug\MainWindow.baml
+c:\users\8\documents\visual studio 2015\Projects\Sales\Sales\obj\Debug\Sales.g.resources
+c:\users\8\documents\visual studio 2015\Projects\Sales\Sales\obj\Debug\Sales.Properties.Resources.resources
+c:\users\8\documents\visual studio 2015\Projects\Sales\Sales\obj\Debug\Sales.csproj.GenerateResource.Cache
+c:\users\8\documents\visual studio 2015\Projects\Sales\Sales\obj\Debug\Sales.exe
+c:\users\8\documents\visual studio 2015\Projects\Sales\Sales\obj\Debug\Sales.pdb
